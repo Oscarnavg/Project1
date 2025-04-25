@@ -24,9 +24,9 @@ const createHeroBanner = () => {
 
                     <div id="images-hero">
 
-                        <img class="img-fluid animated"  src="./images/hero-section/card-1.png" alt="card 1">
-                        <img class="img-fluid animated"  src="./images/hero-section/card-2.png" alt="card 2">                
-                        <img id="boy" src="./images/hero-section/hero-image.png" alt="Hero Img">
+                        <img class="img-fluid animated"  src="./Assets-P/hero-section/card-1.png" alt="card 1">
+                        <img class="img-fluid animated"  src="./Assets-P/hero-section/card-2.png" alt="card 2">                
+                        <img id="boy" src="./Assets-P/hero-section/hero-image.png" alt="Hero Img">
                         
                     </div>
                 </div>
@@ -39,23 +39,23 @@ const createCompanys = () => {
     return `
     <div class="client-logo">
             <a href="#" target="_blank">
-                <img class="logos" src="./images/logos/airbnb-logo.svg" alt="AirBnB">
+                <img class="logos" src="./Assets-P/logos/airbnb-logo.svg" alt="AirBnB">
             </a>
            
             <a href="#" target="_blank">
-                <img class="logos" src="./images/logos/google-logo.svg" alt="Google">
+                <img class="logos" src="./Assets-P/logos/google-logo.svg" alt="Google">
             </a>
             
             <a href="#" target="_blank">
-                <img class="logos" src="./images/logos/microsoft-logo.svg" alt="Microsoft">
+                <img class="logos" src="./Assets-P/logos/microsoft-logo.svg" alt="Microsoft">
             </a>
             
             <a href="#" target="_blank">
-                <img class="logos" src="./images/logos/fedex-logo.svg" alt="Fedex">
+                <img class="logos" src="/Assets-P/logos/fedex-logo.svg" alt="Fedex">
             </a>
 
             <a href="#" target="_blank">
-                <img class="logos" src="./images/logos/amazon-logo.svg" alt="Amazon">
+                <img class="logos" src="./Assets-P/logos/amazon-logo.svg" alt="Amazon">
             </a>
             
         </div>
@@ -78,15 +78,15 @@ const createCard = ({ uuid, image, name, description, content }) => {
 const createOpinions = () => {
     return `
     <div>
-            <img src="./images/testimonial-section/memoji-1.png" alt="Blond girl memoji">
-            <img src="./images/testimonial-section/memoji-2.png" alt="Man with hat memoji">
+            <img src="./Assets-P/testimonial-section/memoji-1.png" alt="Blond girl memoji">
+            <img src="./Assets-P/testimonial-section/memoji-2.png" alt="Man with hat memoji">
         </div>
         <div id="center">
             <h3>Hear What Our Clients Have to Say</h3>
             <p>"Circle helped us through very stage of our startup. <br>
                 We really enjoyed working with you."</p>
             <div>   
-                <img id="profilepic" src="./images/testimonial-section/profile.png" alt="Profile pic">
+                <img id="profilepic" src="./Assets-P/testimonial-section/profile.png" alt="Profile pic">
                 <div>
                     <p id="name">Kristin Watson<p>
                     <p>Booking.com</p>
@@ -94,8 +94,8 @@ const createOpinions = () => {
             </div>
         </div>
         <div>
-            <img src="./images/testimonial-section/memoji-3.png" alt="Bearb man memoji">
-            <img src="./images/testimonial-section/memoji-4.png" alt="Party man memoji">
+            <img src="./Assets-P/testimonial-section/memoji-3.png" alt="Bearb man memoji">
+            <img src="./Assets-P/testimonial-section/memoji-4.png" alt="Party man memoji">
         </div>
     `
 }
