@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.navbar {
+    display: flex;
+  justify-content: space-between;
+  margin-top: 50px;
+  margin-left: 50px;
+}
+img {
+    left: 200px;
+    width: 80px;
+}
+ul {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+}
+
+ul li {
+margin: 10px;
+}
+
+.btn-get-in-touch {
+    background-color: blue;
+    color: white;
+    width: 120px;
+    box-shadow: 2px;
+}
