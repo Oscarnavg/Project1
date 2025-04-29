@@ -106,7 +106,7 @@ const createServices = () => {
         <div class="cards">
             <div class="card-box">
                 <div class="svg">
-                    <img src="./images/services-section/icons/1.svg" alt="img">
+                    <img src="./Assets-P/services-section/icons/1.svg" alt="img">
                 </div>
                 <h3>User Interface Design</h3>
                 <p>Circle provides you with a stunning user interface design that is accessible to everyone.</p>
@@ -115,7 +115,7 @@ const createServices = () => {
 
             <div class="card-box">
                 <div class="svg">
-                    <img src="./images/services-section/icons/2.svg" alt="img">
+                    <img src="./Assets-P/services-section/icons/2.svg" alt="img">
                 </div>
                 <h3>User Experience Design</h3>
                 <p>Circle always focuses on delivering the best user experience to your customers.</p>
@@ -124,7 +124,7 @@ const createServices = () => {
 
             <div class="card-box">
                 <div class="svg">
-                    <img src="./images/services-section/icons/3.svg" alt="img">
+                    <img src="./Assets-P/services-section/icons/3.svg" alt="img">
                 </div>
                 <h3>Application Development</h3>
                 <p>We develop high-quality mobile and web applications using the latest technology stack.</p>
