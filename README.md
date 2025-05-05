@@ -1,11 +1,11 @@
 # Project1  
 
-Este proyecto es una página web sencilla que representa un sitio profesional de diseño y desarrollo digital. Fue creada como una práctica introductoria al desarrollo web, abarcando la creación de una estructura HTML funcional, estilizada con CSS y con interacciones mínimas a través de JavaScript. La web está compuesta por tres páginas principales: la página de inicio (Home), una página de proyectos (Project), y una página de contacto (Contact).
+Este proyecto es una página web a que representa un sitio profesional de diseño y desarrollo digital. Fue creada como una práctica introductoria al desarrollo web, abarcando la creación de una estructura HTML funcional, estilizada con CSS y con interacciones mínimas a través de JavaScript. La web está compuesta por tres páginas principales: la página de inicio (Home), una página de proyectos (Project), y una página de contacto (Contact).
 
 ## Estructura del Proyecto
 
 ### 1. Página de Inicio (Home Page)
-La página principal presenta una introducción a una empresa ficticia llamada **Circle**, que se especializa en diseño digital y desarrollo de aplicaciones web y móviles. La interfaz tiene un diseño moderno e intuitivo.
+La página principal presenta una introducción de la empresa **Circle**, que se especializa en diseño digital y desarrollo de aplicaciones web y móviles. La interfaz tiene un diseño moderno e intuitivo.
 
 #### Elementos Destacados:
 - **Barra de navegación**: Contiene enlaces a secciones internas como Home, Projects, Services y un botón destacado de Contacto.
@@ -37,4 +37,5 @@ El sitio tiene un enfoque claro en el diseño visual y la usabilidad:
 - Animaciones simples y transiciones suaves.
 - Interfaz limpia y ordenada con enfoque centrado en la conversión del usuario (contacto y consulta de trabajos).
 
-## Organización del Proyecto
+
+
