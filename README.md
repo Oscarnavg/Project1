@@ -17,10 +17,29 @@ La página principal presenta una introducción de la empresa **Circle**, que se
 - **Formulario de contacto rápido**: Permite a los usuarios enviar su correo para recibir asistencia o respuestas a dudas.
 
 ### 2. Página de Proyectos (Project Page)
-Aunque no se compartió el contenido exacto, se asume que esta sección profundiza en los trabajos realizados, posiblemente con detalles técnicos o capturas de pantalla para mostrar ejemplos del portafolio.
+
+Project Page (pages/simplify.html)
+
+Detalles del proyecto "Simplify".
+
+Descripción extensa del proceso y objetivos.
+
+Imagen destacada del proyecto.
+
+
+
+Estilizado con intern-pages.css para diferenciarla visualmente del Home.
+
 
 ### 3. Página de Contacto (Contact Page)
-Se espera que esta página contenga un formulario más completo para que los usuarios puedan enviar consultas o solicitudes específicas. Esto podría incluir campos como nombre, correo electrónico, mensaje, entre otros.
+
+Contact Page (pages/contact.html)
+
+Formulario de contacto con campos para nombre, email, teléfono y mensaje.
+
+Diseño responsivo adaptado al estilo general del sitio.
+
+Preparada para futuras integraciones backend.
 
 ## Tecnologías Utilizadas
 
